@@ -1,2 +1,2 @@
 # sign_Langauge_Detection
-Detect Sign Language
+Custom sign language setection using OpenCV and Medipipe
